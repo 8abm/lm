@@ -1,3 +1,6 @@
+import os
+os.system("pip install PyTelegramBotAPI==4")
+os.system("pip install telebot")
 import requests,random
 import telebot
 myid = str("1934060947")
